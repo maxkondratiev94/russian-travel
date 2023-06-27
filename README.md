@@ -6,6 +6,10 @@
 ### Какие технологии использовались
 HTML, CSS, Grid Layout, Flexbox, Nested БЭМ, Позиционирование
 
+### Ссылка на проект:
+
+https://maxkondratiev94.github.io/russian-travel /
+
 ### Автор:
 Кондратьев Максим.
 
