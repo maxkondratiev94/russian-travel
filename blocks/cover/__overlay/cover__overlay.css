@@ -1,8 +1,8 @@
 .cover__overlay{
     text-decoration: none;
     transition: all 0.5s ease-in-out;
-    max-width: 1184px;
-    max-height: 740px;
+    min-width: 1184px;
+    min-height: 740px;
     width: 100%;
     background-image: linear-gradient(rgba(42, 44, 47, 0.3), rgba(42, 44, 47, 0.3)), url(../../../images/cover-trains.jpg);
     background-repeat: no-repeat;
