@@ -1,16 +1,15 @@
 .footer__copyright {
-    margin: 0;
-    align-self: center;
-    color: #FFF;
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-  @media screen and (max-width: 767px) {
-    .footer__copyright {
-      line-height: 14px;
-      align-self: flex-start;
-    }
-  }
+  margin: 0;
+  align-self: center;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  font-style: normal;
+}
+@media screen and (max-width: 767px) {
+  .footer__copyright {
+    line-height: 14px;
+    align-self: flex-start;
+ }
+}

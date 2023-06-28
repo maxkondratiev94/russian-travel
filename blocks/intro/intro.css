@@ -4,25 +4,22 @@
     margin-left: 148px;
     max-width: 690px;
 }
-
 @media screen and (max-width: 1279px) {
     .intro{
         margin-left: 48px;
-    }
+   }
 }
-
 @media screen and (max-width: 1023px) {
     .intro {
         max-width: 720px;
         margin-top: 88px;
         margin-left: auto;
         margin-right: auto;
-    }
+   }
 }
-
 @media screen and (max-width: 767px) {
     .intro {
         max-width: 288px;
         margin-top: 64px;
-    }
+   }
 }

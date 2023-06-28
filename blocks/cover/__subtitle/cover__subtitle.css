@@ -1,22 +1,21 @@
 .cover__subtitle {
-    margin: 0;
-    max-width: 360px;
-    margin-top: 32px;
-    margin-left: auto;
-    margin-right: auto;
-    color: #FFF;
-    font-size: 18px;
-    line-height: 22px;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-  }
-
-  @media screen and (max-width: 767px) {
-    .cover__subtitle {
-      max-width: 288px;
-      margin-top: 16px;
-      font-size: 14px;
-      line-height: 16px;
-    }
-  }
+  margin: 0;
+  max-width: 360px;
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFF;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .cover__subtitle {
+    max-width: 288px;
+    margin-top: 16px;
+    font-size: 14px;
+    line-height: 16px;
+ }
+}
