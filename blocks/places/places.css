@@ -22,5 +22,9 @@
     .places {
         margin-top: 64px;
         max-width: 320px;
+<<<<<<< HEAD
+=======
+        min-height: 5177;
+>>>>>>> 8011b554f40039ca7c0384ddc960db02ce5ee5ca
     }
 }
