@@ -11,14 +11,14 @@
 @media screen and (max-width: 1279px) {
   .place {
     gap: 48px 32px;
- }
+  }
 }
 @media screen and (max-width: 1023px) {
   .place {
     max-width: 720px;
     gap: 48px 28px;
     padding-bottom: 73px;
- }
+  }
 }
 @media screen and (max-width: 767px) {
   .place {
@@ -27,5 +27,5 @@
     flex-direction: column;
     padding-bottom: 50px;
     gap: 32px;
- }
+  }
 }
